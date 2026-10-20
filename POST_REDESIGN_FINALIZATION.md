@@ -408,7 +408,7 @@ After successful builds, you should have:
 
 ## 📞 Support & Resources
 
-- **GitHub Repository:** https://github.com/ai-dev-2024/ai-keyboard
+- **GitHub Repository:** https://github.com/muhib-karim/ai-keyboard
 - **Android Developer Docs:** https://developer.android.com/
 - **Gradle Documentation:** https://docs.gradle.org/
 - **Play Store Console:** https://play.google.com/console

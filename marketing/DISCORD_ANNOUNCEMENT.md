@@ -32,7 +32,7 @@ Introducing **AI Keyboard** — the first Android keyboard with fully offline AI
 [Google Play Store Link] *(Link will be added after release)*
 
 ### 📦 Open Source
-GitHub: https://github.com/ai-dev-2024
+GitHub: https://github.com/muhib-karim
 
 ### 💬 Support
 Ko-fi: https://ko-fi.com/ai_dev_2024

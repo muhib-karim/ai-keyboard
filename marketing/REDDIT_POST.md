@@ -35,7 +35,7 @@ You have full control over which AI model processes your voice.
 
 ### 📦 Open Source
 
-GitHub: https://github.com/ai-dev-2024
+GitHub: https://github.com/muhib-karim
 
 Contributions welcome! Issues, PRs, and feedback are all appreciated.
 

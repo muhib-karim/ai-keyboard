@@ -399,8 +399,8 @@ To develop custom models:
 
 For model-related questions:
 
-- **Issues**: [GitHub Issues](https://github.com/ai-dev-2024/ai-keyboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ai-dev-2024/ai-keyboard/discussions)
+- **Issues**: [GitHub Issues](https://github.com/muhib-karim/ai-keyboard/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/muhib-karim/ai-keyboard/discussions)
 
 ---
 

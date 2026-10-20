@@ -60,7 +60,7 @@ AI Keyboard is available on the Google Play Store as a freemium app, with option
 **Call to Action:**
 
 To learn more or support development, visit:  
-- **GitHub**: https://github.com/ai-dev-2024  
+- **GitHub**: https://github.com/muhib-karim  
 - **Ko-fi**: https://ko-fi.com/ai_dev_2024  
 
 ---
@@ -68,7 +68,7 @@ To learn more or support development, visit:
 **Contact Information:**
 
 **Developer**: AI Keyboard Team  
-**GitHub**: https://github.com/ai-dev-2024  
+**GitHub**: https://github.com/muhib-karim  
 **Ko-fi**: https://ko-fi.com/ai_dev_2024  
 
 ---

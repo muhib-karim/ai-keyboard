@@ -71,7 +71,7 @@ Thank you for your interest in contributing to AI Keyboard! This document provid
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/ai-dev-2024/ai-keyboard.git
+   git clone https://github.com/muhib-karim/ai-keyboard.git
    cd ai-keyboard
    ```
 
@@ -367,8 +367,8 @@ AI Keyboard is developed by a solo developer working with AI assistants (like Cu
 ### Resources
 
 - **Documentation**: See `docs/` folder
-- **Issues**: [GitHub Issues](https://github.com/ai-dev-2024/ai-keyboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ai-dev-2024/ai-keyboard/discussions)
+- **Issues**: [GitHub Issues](https://github.com/muhib-karim/ai-keyboard/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/muhib-karim/ai-keyboard/discussions)
 
 ### Contact
 

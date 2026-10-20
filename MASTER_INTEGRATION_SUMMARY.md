@@ -171,7 +171,7 @@ ai-keyboard/
 ## ✅ Compliance Checklist
 
 ### Project Links ✅
-- ✅ GitHub Owner: https://github.com/ai-dev-2024
+- ✅ GitHub Owner: https://github.com/muhib-karim
 - ✅ Ko-fi: https://ko-fi.com/ai_dev_2024
 
 ### Documentation ✅

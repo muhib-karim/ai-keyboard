@@ -190,7 +190,7 @@ speech recognition offline
 ## CONTACT INFORMATION
 
 **Developer**: AI Keyboard Team  
-**GitHub**: https://github.com/ai-dev-2024  
+**GitHub**: https://github.com/muhib-karim  
 **Ko-fi**: https://ko-fi.com/ai_dev_2024  
 
 ---

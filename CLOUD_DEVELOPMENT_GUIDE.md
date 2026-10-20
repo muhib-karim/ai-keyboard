@@ -15,7 +15,7 @@ This guide helps you set up a lightweight, cloud-based development environment f
 
 1. **Push your code to GitHub** (if not already)
    ```bash
-   git remote add origin https://github.com/yourusername/AiKeyboard.git
+   git remote add origin https://github.com/muhib-karim/ai-keyboard.git
    git push -u origin main
    ```
 
@@ -115,7 +115,7 @@ adb devices
 
 2. **Clone and Setup**
    ```bash
-   git clone https://github.com/yourusername/AiKeyboard.git
+   git clone https://github.com/muhib-karim/ai-keyboard.git
    cd AiKeyboard
    
    # Install Android SDK

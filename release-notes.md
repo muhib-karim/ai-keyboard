@@ -146,8 +146,8 @@ Welcome to AI Keyboard! This is the first public release of AI Keyboard, featuri
 ### Getting Help
 
 - **Documentation**: See `docs/` folder in repository
-- **GitHub Issues**: [Report issues](https://github.com/ai-dev-2024/ai-keyboard/issues)
-- **GitHub Discussions**: [Ask questions](https://github.com/ai-dev-2024/ai-keyboard/discussions)
+- **GitHub Issues**: [Report issues](https://github.com/muhib-karim/ai-keyboard/issues)
+- **GitHub Discussions**: [Ask questions](https://github.com/muhib-karim/ai-keyboard/discussions)
 
 ### Supporting Development
 
@@ -167,7 +167,7 @@ See [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- **GitHub**: https://github.com/ai-dev-2024
+- **GitHub**: https://github.com/muhib-karim
 - **Ko-fi**: https://ko-fi.com/ai_dev_2024
 - **Play Store**: *(Link will be added after release)*
 

@@ -58,7 +58,7 @@ Recommended hashtags:
 
 ## Links
 
-- **GitHub**: https://github.com/ai-dev-2024
+- **GitHub**: https://github.com/muhib-karim
 - **Ko-fi**: https://ko-fi.com/ai_dev_2024
 - **Play Store**: *(Link will be added after release)*
 

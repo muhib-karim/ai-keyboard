@@ -40,7 +40,7 @@
 
 **Text Overlay**: 
 - "Download on Google Play"
-- "GitHub: github.com/ai-dev-2024"
+- "GitHub: github.com/muhib-karim"
 - "Support: ko-fi.com/ai_dev_2024"
 
 ---

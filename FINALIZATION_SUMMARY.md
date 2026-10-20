@@ -152,7 +152,7 @@ Once `local.properties` is created, run these commands:
 - **Full Report:** See `POST_REDESIGN_FINALIZATION.md`
 
 ### External Resources
-- **GitHub Repository:** https://github.com/ai-dev-2024/ai-keyboard
+- **GitHub Repository:** https://github.com/muhib-karim/ai-keyboard
 - **Play Console:** https://play.google.com/console
 - **Gradle Docs:** https://docs.gradle.org/
 - **Android Docs:** https://developer.android.com/

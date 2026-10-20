@@ -30,7 +30,7 @@ AI Keyboard aims to:
 
 ### Contact
 
-- **GitHub**: https://github.com/ai-dev-2024
+- **GitHub**: https://github.com/muhib-karim
 - **Ko-fi**: https://ko-fi.com/ai_dev_2024
 
 ---

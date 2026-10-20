@@ -43,7 +43,7 @@ Please maintain attribution to AI Keyboard and the developer.
 ## Contact
 
 For media inquiries:
-- **GitHub**: https://github.com/ai-dev-2024
+- **GitHub**: https://github.com/muhib-karim
 
 ---
 

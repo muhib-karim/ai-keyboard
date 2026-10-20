@@ -39,7 +39,7 @@ The website is automatically deployed to GitHub Pages when:
 ### Viewing Your Site
 
 After deployment, your site will be available at:
-- `https://[your-username].github.io/[repository-name]/`
+- `https://[YOUR-USERNAME].github.io/[YOUR-REPO]/`
 - Or your custom domain if configured in repository settings
 
 ### Enabling GitHub Pages
@@ -176,11 +176,10 @@ Open Graph tags control how your site appears when shared on social media (Faceb
 
 2. **Update meta tags in index.html**:
    - Open `website/index.html`
-   - Find the "Open Graph Meta Tags" section in the `<head>`
-   - Replace `[YOUR-USERNAME]` and `[YOUR-REPO]` with your actual values:
+   - Once the site is deployed, add these to the Open Graph section in the `<head>`, replacing `[YOUR-USERNAME]` and `[YOUR-REPO]`:
      ```html
-     <meta property="og:url" content="https://ai-dev-2024.github.io/ai-keyboard/">
-     <meta property="og:image" content="https://ai-dev-2024.github.io/ai-keyboard/og-image.png">
+     <meta property="og:url" content="https://[YOUR-USERNAME].github.io/[YOUR-REPO]/">
+     <meta property="og:image" content="https://[YOUR-USERNAME].github.io/[YOUR-REPO]/og-image.png">
      ```
 
 3. **Customize content** (optional):

@@ -178,7 +178,7 @@ speech-recognition
 
 - [ ] **Review duplicate files** (`PRIVACY_POLICY.md`, `PRESS_RELEASE.md`, `PLAY_STORE_LISTING.md`) — decide which to keep
 - [ ] **Verify LICENSE** — Confirm Apache-2.0 is correct
-- [ ] **Update README.md** — Ensure all links point to your actual GitHub org/repo (replace `ai-dev-2024`)
+- [x] **Update README.md** — Links point to github.com/muhib-karim/ai-keyboard
 - [ ] **Update release-notes.md** — Verify release date is correct
 - [ ] **Check .gitignore** — Ensure no sensitive files are tracked
 - [ ] **Verify workflows** — Ensure all GitHub Actions workflows reference correct paths/branches

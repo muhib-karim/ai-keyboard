@@ -33,7 +33,7 @@
 
 🔗 Links:
    • Play Store: [Link will be added after release]
-   • GitHub: https://github.com/ai-dev-2024
+   • GitHub: https://github.com/muhib-karim
    • Support: https://ko-fi.com/ai_dev_2024
 
 7/ 🙏 Thank you to everyone who supported this project! This is just the beginning. More features, more models, more customization coming soon.
@@ -47,7 +47,7 @@
 🚀 AI Keyboard is now live! The first Android keyboard with fully offline AI voice typing powered by user-selectable models. Your voice. Your data. Your control.
 
 🔗 Download: [Link]
-💻 GitHub: https://github.com/ai-dev-2024
+💻 GitHub: https://github.com/muhib-karim
 ☕ Support: https://ko-fi.com/ai_dev_2024
 
 #AIKeyboard #OfflineAI #PrivacyFirst

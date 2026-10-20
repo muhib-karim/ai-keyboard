@@ -431,4 +431,4 @@ window.addEventListener('load', () => {
 console.log('%cAI Keyboard', 'font-size: 24px; font-weight: bold; color: #00C7B7;');
 console.log('%cOffline Voice Typing Powered by AI', 'font-size: 14px; color: #8E8E93;');
 console.log('%cYour AI. Your models. Your data.', 'font-size: 12px; color: #6E6E73;');
-console.log('%cGitHub: https://github.com/ai-dev-2024/ai-keyboard', 'font-size: 12px; color: #00C7B7;');
+console.log('%cGitHub: https://github.com/muhib-karim/ai-keyboard', 'font-size: 12px; color: #00C7B7;');
